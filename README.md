@@ -1,2 +1,2 @@
 # Deep-Learning-Tensorflow
-Deep learning with Tensorflow 2.0
+Deep learning with Tensorflow and PyTorch
